@@ -1,0 +1,4 @@
+2025-03-26 10:01:32,071 - Started processing data1.csv
+2025-03-26 10:01:32,072 - Started processing data2.csv
+2025-03-26 10:01:32,081 - Error processing data1.csv: [Errno 2] No such file or directory: 'data1.csv'
+2025-03-26 10:01:32,081 - Error processing data2.csv: [Errno 2] No such file or directory: 'data2.csv'

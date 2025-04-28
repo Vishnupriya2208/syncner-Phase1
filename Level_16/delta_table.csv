@@ -1,0 +1,5 @@
+match_id,team1,team2,match_result,tiebreaker,match_status,runs_team1,runs_team2
+1,RCB,MI,RCB won,,Completed,180,170
+2,MI,KKR,MI won,,Completed,175,175
+3,CSK,DC,Tied,Super Over,Completed,160,160
+4,RR,DC,RR won,,Completed,155,150

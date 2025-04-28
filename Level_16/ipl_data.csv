@@ -1,0 +1,7 @@
+match_id,date,venue,innings,ball,batting_team,bowling_team,batsman,bowler,runs_batsman,runs_extras,runs_total,dismissal_kind,player_dismissed
+1,2021-04-09,Chennai,1,0.1,Mumbai Indians,RCB,Rohit Sharma,Washington Sundar,0,0,0,,
+1,2021-04-09,Chennai,1,0.2,Mumbai Indians,RCB,Rohit Sharma,Washington Sundar,1,0,1,,
+1,2021-04-09,Chennai,1,0.3,Mumbai Indians,RCB,Chris Lynn,Washington Sundar,4,0,4,,
+1,2021-04-09,Chennai,1,0.4,Mumbai Indians,RCB,Chris Lynn,Washington Sundar,0,1,1,run out,Chris Lynn
+1,2021-04-09,Chennai,2,0.1,RCB,Mumbai Indians,Virat Kohli,Trent Boult,1,0,1,,
+1,2021-04-09,Chennai,2,0.2,RCB,Mumbai Indians,Virat Kohli,Trent Boult,0,0,0,,
