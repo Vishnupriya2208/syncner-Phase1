@@ -33,5 +33,7 @@
 | Level 16| None             |
 | Level 17| None             |
 | Level 18| Task 7           |
+| Level 19| Task 2,3,4,5     |
+| Level 20|	Task 2,3,4,5     |
 | Level 21| Task 5,6,7       |
 | Level 23| Task 4           |
